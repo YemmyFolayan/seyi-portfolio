@@ -1,5 +1,3 @@
-## https://yemmyfolayan.github.io/NICE-PORTFOLIO/
+## https://seyi-asuluwon.netlify.app
 
-## https://michael-folayan.vercel.app/blog.html
 
-## https://michael-folayan.vercel.app
